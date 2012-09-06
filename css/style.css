@@ -10,71 +10,71 @@ body {
   width: 960px;
 }
 
-/* line 14, ../scss/style.scss */
+/* line 12, ../scss/style.scss */
 .hero {
   background-color: #f6f6f6;
 }
 
-/* line 18, ../scss/style.scss */
+/* line 16, ../scss/style.scss */
 .services {
   background: url("../img/section_bg.png");
   padding-bottom: 70px;
 }
 
-/* line 23, ../scss/style.scss */
+/* line 21, ../scss/style.scss */
 .foot_section {
   background: #202020;
   color: #e8e8e8;
 }
 
-/* line 29, ../scss/style.scss */
+/* line 27, ../scss/style.scss */
 .top_logo {
   margin-top: 38px;
 }
 
-/* line 33, ../scss/style.scss */
+/* line 31, ../scss/style.scss */
 nav {
   float: right;
   width: 64%;
 }
-/* line 37, ../scss/style.scss */
+/* line 35, ../scss/style.scss */
 nav li {
   float: left;
   margin-top: 28px;
   padding-right: 50px;
   width: 45px;
 }
-/* line 44, ../scss/style.scss */
+/* line 42, ../scss/style.scss */
 nav a {
   font-size: 14px;
   text-decoration: none;
   color: #000;
 }
 
-/* line 52, ../scss/style.scss */
+/* line 50, ../scss/style.scss */
 .intro_text {
   padding-bottom: 20px;
   text-align: center;
 }
-/* line 57, ../scss/style.scss */
+/* line 55, ../scss/style.scss */
 .intro_text h1 {
   font-family: 'gotham_boldregular';
   font-size: 109px;
   margin-bottom: 25px;
 }
-/* line 63, ../scss/style.scss */
+/* line 61, ../scss/style.scss */
 .intro_text p {
   font-size: 14px;
   margin-bottom: 45px;
   margin-left: 145px;
   width: 670px;
 }
-/* line 70, ../scss/style.scss */
+/* line 68, ../scss/style.scss */
 .intro_text h2 {
   font-size: 26px;
 }
 
-/* line 77, ../scss/style.scss */
+/* line 75, ../scss/style.scss */
 .col {
   float: left;
   margin-bottom: 45px;
@@ -82,133 +82,133 @@ nav a {
   margin-right: 230px;
   width: 140px;
 }
-/* line 84, ../scss/style.scss */
+/* line 82, ../scss/style.scss */
 .col p {
   font-weight: bold;
 }
-/* line 89, ../scss/style.scss */
+/* line 87, ../scss/style.scss */
 .col ul {
   list-style-type: none;
   margin-top: -30px;
   margin-left: 7px;
 }
-/* line 97, ../scss/style.scss */
+/* line 95, ../scss/style.scss */
 .col li {
   padding-bottom: 12px;
   width: 170px;
 }
-/* line 101, ../scss/style.scss */
+/* line 99, ../scss/style.scss */
 .col li:first-child {
   font-weight: bold;
   margin-bottom: 15px;
 }
 
-/* line 109, ../scss/style.scss */
+/* line 107, ../scss/style.scss */
 .no_margin {
   margin-right: 0;
 }
 
-/* line 113, ../scss/style.scss */
+/* line 111, ../scss/style.scss */
 .dots {
   margin-top: 30px;
 }
 
-/* line 117, ../scss/style.scss */
+/* line 115, ../scss/style.scss */
 .left {
   float: left;
   width: 36.551247%;
 }
-/* line 121, ../scss/style.scss */
+/* line 119, ../scss/style.scss */
 .left h3 {
   font-size: 23px;
   margin-bottom: 16px;
 }
-/* line 126, ../scss/style.scss */
+/* line 124, ../scss/style.scss */
 .left p {
   font-size: 15px;
 }
-/* line 130, ../scss/style.scss */
+/* line 128, ../scss/style.scss */
 .left a {
   color: #000;
   font-size: 12px;
   text-decoration: none;
 }
-/* line 135, ../scss/style.scss */
+/* line 133, ../scss/style.scss */
 .left a:hover {
   border-bottom: 1px solid #000;
 }
 
-/* line 141, ../scss/style.scss */
+/* line 139, ../scss/style.scss */
 .right {
   float: right;
   width: 41.55124653739612%;
   /* 450/1083 */
 }
-/* line 145, ../scss/style.scss */
+/* line 143, ../scss/style.scss */
 .right img {
   margin-left: -95px;
   margin-top: 80px;
 }
 
-/* line 153, ../scss/style.scss */
+/* line 151, ../scss/style.scss */
 .foot_row {
   margin-bottom: 5px;
 }
 
-/* line 157, ../scss/style.scss */
+/* line 155, ../scss/style.scss */
 .left_foot {
   float: left;
   width: 50%;
 }
-/* line 161, ../scss/style.scss */
+/* line 159, ../scss/style.scss */
 .left_foot p {
   font-size: 31px;
   font-weight: bold;
 }
 
-/* line 167, ../scss/style.scss */
+/* line 165, ../scss/style.scss */
 .right_foot {
   float: right;
   width: 50%;
   text-align: right;
 }
-/* line 172, ../scss/style.scss */
+/* line 170, ../scss/style.scss */
 .right_foot p {
   font-size: 15px;
   margin-right: 12px;
   margin-top: 35px;
 }
 
-/* line 179, ../scss/style.scss */
+/* line 177, ../scss/style.scss */
 .foot_col {
   float: left;
   margin-bottom: 88px;
   margin-right: 100px;
   width: 213px;
 }
-/* line 185, ../scss/style.scss */
+/* line 183, ../scss/style.scss */
 .foot_col p {
   font-size: 31px;
 }
-/* line 189, ../scss/style.scss */
+/* line 187, ../scss/style.scss */
 .foot_col ul {
   list-style-type: none;
   padding-left: 0;
 }
-/* line 194, ../scss/style.scss */
+/* line 192, ../scss/style.scss */
 .foot_col li {
   color: #939393;
   font-size: 13px;
   margin-bottom: 20px;
 }
-/* line 199, ../scss/style.scss */
+/* line 197, ../scss/style.scss */
 .foot_col li:first-child {
   color: #e8e8e8;
   font-size: 15px;
   margin-bottom: 15px;
 }
 
-/* line 209, ../scss/style.scss */
+/* line 207, ../scss/style.scss */
 .members li:nth-child(2), .members li:nth-child(4), .members li:nth-child(6) {
   color: #e8e8e8;
 }
